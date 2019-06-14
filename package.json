@@ -1,0 +1,19 @@
+{
+  "name": "fssopenapilanguage",
+  "version": "1.0.0",
+  "description": "Language Interface for openapi fss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huy-k60cc/FssOpenapiLanguage.git"
+  },
+  "author": "huy.nguyen@fssc.com.vn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huy-k60cc/FssOpenapiLanguage/issues"
+  },
+  "homepage": "https://github.com/Huy-k60cc/FssOpenapiLanguage#readme"
+}
